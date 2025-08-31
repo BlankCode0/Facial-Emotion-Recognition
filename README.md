@@ -38,3 +38,9 @@ with torch.no_grad():
 
 pred_class = train_dataset.classes[pred]
 print("Predicted Emotion:", pred_class)
+```
+
+
+## 📸 Example Prediction
+![Prediction Example](Screenshot 2025-08-31 165847.png)
+
